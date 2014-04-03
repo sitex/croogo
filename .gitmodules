@@ -10,3 +10,6 @@
 [submodule "Ckeditor"]
 	path = Plugin/Ckeditor
 	url = git://github.com/croogo/Ckeditor.git
+[submodule "Plugin/Expander"]
+	path = Plugin/Expander
+	url = https://sitex@github.com/sitex/expander.git
